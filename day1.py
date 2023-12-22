@@ -1,4 +1,4 @@
-file = open('day_1_input.txt', 'r')
+file = open('day1.txt', 'r')
 input = file.read()
 input += "\n" # added so that for loop catches also the last line of the input
 
